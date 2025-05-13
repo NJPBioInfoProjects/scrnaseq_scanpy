@@ -1,0 +1,17 @@
+name: sccoda_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scanpy
+  - anndata
+  - patsy
+  - statsmodels
