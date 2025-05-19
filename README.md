@@ -11,7 +11,7 @@ This project analyzes the single-cell transcriptomic landscape of matched primar
 - analysis.pdf: Readble version of analysis
 - sccoda_analysis.ipynb: Contains additional analysis on results using scCODA
 - sccoda_analysis.pdf: Readable version of scCODA analysis
-- /envs: contains environment files necessary for creating conda environments to use each notebook
+- envs/: contains environment files necessary for creating conda environments to use each notebook
 
 ## Creating analysis env
 run
