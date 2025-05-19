@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes the single-cell transcriptomic landscape of matched primary pancreatic tumors and liver metastases from patients with pancreatic ductal adenocarcinoma (PDAC), based on the study by Zhang et al. (2023, Nature Communications). I aimed to replicate and extend key analyses from the paper, including cell type annotation, composition comparisons, pseudotime trajectory modeling, and compositional modeling. By applying tools like CellTypist, Monocle, and scCODA to the provided dataset, this work explores how immunosuppressive microenvironments and distinct cellular lineages contribute to metastatic progression in PDAC.
+This project analyzes the single-cell transcriptomic landscape of matched primary pancreatic tumors and liver metastases from patients with pancreatic ductal adenocarcinoma (PDAC), based on the study by Zhang et al. (2023, Nature Communications). I aimed to replicate and extend key analyses from the paper, including cell type annotation, composition comparisons, pseudotime trajectory modeling, and compositional modeling. By applying tools like CellTypist and scCODA to the provided dataset, this work explores how immunosuppressive microenvironments and distinct cellular lineages contribute to metastatic progression in PDAC.
 
 # Use
 
