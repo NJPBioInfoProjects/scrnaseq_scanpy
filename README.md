@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# BF528 FINAL PROJECT (scRNA-seq)
 
 ## Project Overview
 
